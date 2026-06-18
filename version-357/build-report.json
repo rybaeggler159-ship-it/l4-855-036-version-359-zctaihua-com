@@ -1,0 +1,13 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "category_card_count": 2000,
+  "unique_detail_links_from_category_pages": 2000,
+  "html_file_count": 2014,
+  "baidu_missing_html_files": [],
+  "image_files_in_zip_source": [],
+  "broken_local_html_links_sample": [],
+  "m3u8_source_count": 20,
+  "logo": "高清剧集大全"
+}
